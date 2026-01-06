@@ -183,5 +183,6 @@ If the system doesn’t know, it says so.
 Inspired by modern Retrieval-Augmented Generation (RAG) systems and personal knowledge management research.
 
 # FLOWCHART
-![Architecture Diagram](./diagram.png)
+[PROJECT FLOWCHART](https://diagram-refiner--vanshikashinde.replit.app/)
+
 
